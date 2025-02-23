@@ -1,58 +1,64 @@
-##Projeto de Aprendizado de IA Generativa com Microsoft Azure e Copilot
+# Projeto de Aprendizado de IA Generativa com Microsoft Azure e Copilot
+__________________________________________________________________________________________
 
-Visão Geral
+# Visão Geral
+
 Este projeto tem como objetivo desenvolver e treinar modelos de Inteligência Artificial generativa utilizando a plataforma Microsoft Azure e a ferramenta Copilot. A IA generativa é uma classe de algoritmos que aprendem a criar novos dados a partir de padrões presentes nos dados de treinamento.
 
-Pré-requisitos
+## 1. Pré-requisitos
+
 Antes de iniciar o projeto, certifique-se de que você possui os seguintes pré-requisitos:
 
-Conta no Microsoft Azure
+-Conta no Microsoft Azure
 
-Acesso ao Copilot
+-Acesso ao Copilot
 
-Familiaridade com linguagens de programação (Python, por exemplo)
+-Familiaridade com linguagens de programação (Python, por exemplo)
 
-Ambiente de desenvolvimento configurado (Visual Studio Code, Jupyter Notebook, etc.)
+-Ambiente de desenvolvimento configurado (Visual Studio Code, Jupyter Notebook, etc.)
 
-Estrutura do Projeto
-Configuração do Ambiente
 
-Criação de uma conta no Microsoft Azure
+## 2. Estrutura do Projeto
 
-Configuração dos serviços necessários (Azure Machine Learning, Azure Storage, etc.)
+-Configuração do Ambiente
 
-Instalação das bibliotecas e ferramentas necessárias (Azure SDK, Copilot, etc.)
+-Criação de uma conta no Microsoft Azure
 
-Coleta e Preparação de Dados
+-Configuração dos serviços necessários (Azure Machine Learning, Azure Storage, etc.)
 
-Importação e limpeza dos dados de treinamento
+-Instalação das bibliotecas e ferramentas necessárias (Azure SDK, Copilot, etc.)
 
-Análise exploratória dos dados
+### Coleta e Preparação de Dados
 
-Divisão dos dados em conjuntos de treinamento e teste
+-Importação e limpeza dos dados de treinamento
 
-Desenvolvimento do Modelo
+-Análise exploratória dos dados
 
-Seleção da arquitetura do modelo generativo (GANs, VAEs, etc.)
+-Divisão dos dados em conjuntos de treinamento e teste
 
-Implementação do modelo utilizando as ferramentas disponíveis
+### Desenvolvimento do Modelo
 
-Treinamento do modelo com os dados preparados
+-Seleção da arquitetura do modelo generativo (GANs, VAEs, etc.)
 
-Avaliação do desempenho do modelo
+-Implementação do modelo utilizando as ferramentas disponíveis
 
-Implementação e Integração
+-Treinamento do modelo com os dados preparados
 
-Implantação do modelo treinado no ambiente Azure
+-Avaliação do desempenho do modelo
 
-Integração com aplicações e serviços (APIs, dashboards, etc.)
+### Implementação e Integração
 
-Monitoramento e manutenção do modelo em produção
+-Implantação do modelo treinado no ambiente Azure
 
-Documentação e Compartilhamento
+-Integração com aplicações e serviços (APIs, dashboards, etc.)
 
-Criação de documentação detalhada do projeto
+-Monitoramento e manutenção do modelo em produção
 
-Compartilhamento do código-fonte e recursos utilizados
+### Documentação e Compartilhamento
 
-Publicação de relatórios e resultados
+-Criação de documentação detalhada do projeto
+
+-Compartilhamento do código-fonte e recursos utilizados
+
+-Publicação de relatórios e resultados
+
