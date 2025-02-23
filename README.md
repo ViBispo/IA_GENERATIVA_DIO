@@ -9,56 +9,56 @@ Este projeto tem como objetivo desenvolver e treinar modelos de Inteligência Ar
 
 Antes de iniciar o projeto, certifique-se de que você possui os seguintes pré-requisitos:
 
--Conta no Microsoft Azure
+- Conta no Microsoft Azure
 
--Acesso ao Copilot
+- Acesso ao Copilot
 
--Familiaridade com linguagens de programação (Python, por exemplo)
+- Familiaridade com linguagens de programação (Python, por exemplo)
 
--Ambiente de desenvolvimento configurado (Visual Studio Code, Jupyter Notebook, etc.)
+- Ambiente de desenvolvimento configurado (Visual Studio Code, Jupyter Notebook, etc.)
 
 
 ## 2. Estrutura do Projeto
 
--Configuração do Ambiente
+- Configuração do Ambiente
 
--Criação de uma conta no Microsoft Azure
+- Criação de uma conta no Microsoft Azure
 
--Configuração dos serviços necessários (Azure Machine Learning, Azure Storage, etc.)
+- Configuração dos serviços necessários (Azure Machine Learning, Azure Storage, etc.)
 
--Instalação das bibliotecas e ferramentas necessárias (Azure SDK, Copilot, etc.)
+- Instalação das bibliotecas e ferramentas necessárias (Azure SDK, Copilot, etc.)
 
 ### Coleta e Preparação de Dados
 
--Importação e limpeza dos dados de treinamento
+- Importação e limpeza dos dados de treinamento
 
--Análise exploratória dos dados
+- Análise exploratória dos dados
 
--Divisão dos dados em conjuntos de treinamento e teste
+- Divisão dos dados em conjuntos de treinamento e teste
 
 ### Desenvolvimento do Modelo
 
--Seleção da arquitetura do modelo generativo (GANs, VAEs, etc.)
+- Seleção da arquitetura do modelo generativo (GANs, VAEs, etc.)
 
--Implementação do modelo utilizando as ferramentas disponíveis
+- Implementação do modelo utilizando as ferramentas disponíveis
 
--Treinamento do modelo com os dados preparados
+- Treinamento do modelo com os dados preparados
 
--Avaliação do desempenho do modelo
+- Avaliação do desempenho do modelo
 
 ### Implementação e Integração
 
--Implantação do modelo treinado no ambiente Azure
+- Implantação do modelo treinado no ambiente Azure
 
--Integração com aplicações e serviços (APIs, dashboards, etc.)
+- Integração com aplicações e serviços (APIs, dashboards, etc.)
 
--Monitoramento e manutenção do modelo em produção
+- Monitoramento e manutenção do modelo em produção
 
 ### Documentação e Compartilhamento
 
--Criação de documentação detalhada do projeto
+- Criação de documentação detalhada do projeto
 
--Compartilhamento do código-fonte e recursos utilizados
+- Compartilhamento do código-fonte e recursos utilizados
 
--Publicação de relatórios e resultados
+- Publicação de relatórios e resultados
 
